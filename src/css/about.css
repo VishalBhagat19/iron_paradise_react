@@ -1,0 +1,171 @@
+.banner11 {
+    background-size: cover;
+    background-image: url(/public/img/vishal.jpg);
+    background-position: center;
+    width: 100%;
+    height: 600px;
+    /*background-attachment: fixed;*/
+}
+.banner11 h1{
+    font-size: 100px;
+    margin-top: 120px;
+    text-align: center;
+    font-style: oblique;
+    color: darkred;
+    text-shadow: 3px 3px #F3A161;
+    text-transform: uppercase;
+}
+@media(max-width: 802px){
+    .banner11 h1{
+    font-size: 80px;
+}
+}
+@media(max-width: 530px){
+    .banner11 h1{
+    font-size: 60px;
+}
+}
+.wall{
+    text-align: center;
+    margin-top: 50px;
+}
+.wall h1{
+    font-weight: bold;
+}
+.wall p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.a11{
+    background: white;
+    width: 100%;
+    max-width: 68%;
+    margin-right: -2rem;
+    padding: 2rem;
+    box-shadow: 0 4px 4px #00000040;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+}
+.b11{
+    color: lightgreen;
+}
+.c11 img{
+     background: white;
+    box-shadow: 0 4px 4px #00000040;
+    text-align: center;
+    width: 75%;
+}
+.why11{
+    width: 100%;
+    height: 600px !important;
+    background-image: url(https://cdn.shopify.com/s/files/1/0398/9113/files/about_bg.png?v=1611585000);
+    margin-top:30px ;
+    background-size: cover;
+    background-position: center;
+}
+.why11 .d{
+    background: white;
+    width: 100%;
+    max-width: 30%;
+    /*margin-right: -2rem;*/
+    padding: 2rem;
+    box-shadow: 0 4px 4px #00000040;
+    position: relative;
+    z-index: 1;
+    /*max-width: 600px !important;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:70px;
+}
+.d11 h2{
+    font-family: Flama Basic;
+    font-size: 1.684rem;
+    margin-bottom: 1.263rem;
+    color: #053330;
+    letter-spacing: .03em;
+}
+.d11 p{
+display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+@media(max-width: 1207px){
+    .d11 h2{
+    font-size: 0.684rem;
+    margin-bottom: 0.263rem;
+}
+  .d11 p{
+    display: block;
+}
+}
+@media(max-width: 1002px){
+    .d11 h2{
+    font-size: 0.684rem;
+    margin-bottom: 0.263rem;
+}
+  .d11 p{
+    font-size: 0.684rem;
+    margin-bottom: 0.263rem;
+}
+}
+@media(max-width: 706px){
+    .d11 h2{
+    font-size: 0.684rem;
+    margin-bottom: 0.263rem;
+}
+  .d11 p{
+    font-size: 0.384rem;
+    margin-bottom: 0.163rem;
+}
+}
+.about{
+    background-color: whitesmoke;
+    text-align: center;
+    width: 100%;
+}
+.about h3{
+  margin-top: 50px;
+}
+.y{
+    margin-top: 50px;
+}
+.y h5{
+    margin-top: 10px;
+}
+.y p{
+    color: limegreen;
+}
+.y img{
+    box-shadow: 0 4px 4px #00000040;
+}
+.footer{
+    background-color: #263238;
+    /*text-align: center;*/
+}
+.footer h1{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 50px;
+    color: whitesmoke;
+    text-shadow: 3px 3px #F3A161;
+    text-transform: uppercase;
+}
+.footer h4{
+    color: whitesmoke;
+}
+.w h6{
+    color:lightskyblue;
+    margin-top: 30px;
+    font-style: initial;
+}
+.w p{
+    color: whitesmoke;
+    padding: 2px;
+    line-height: 2;
+}
